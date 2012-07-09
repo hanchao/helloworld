@@ -29,7 +29,7 @@
 		C17B989E15AB00550052D8FD /* helloworld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = helloworld; sourceTree = BUILT_PRODUCTS_DIR; };
 		C17B98A215AB00550052D8FD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C17B98A515AB00550052D8FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C17B98A815AB00550052D8FD /* helloworld-Prefix.pch */ = {isa = PBXFileReference; path = "helloworld-Prefix.pch"; sourceTree = "<group>"; };
+		C17B98A815AB00550052D8FD /* helloworld-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "helloworld-Prefix.pch"; sourceTree = "<group>"; };
 		C17B98A915AB00550052D8FD /* helloworld.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = helloworld.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
